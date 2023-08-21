@@ -26,9 +26,9 @@
 
 .locations,
 .amenities {
-    padding: 30px;
     border-right: 1px solid #DDD;
     width: 25%;
+    height: 100%;
     position: relative;
 }
 
